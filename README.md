@@ -8,7 +8,7 @@ Spring provides everything required beyond the Java programming language for cre
 
 This project is governed by the [Spring Code of Conduct](CODE_OF_CONDUCT.adoc). By participating, you are expected to uphold this code of conduct. Please report unacceptable behavior to spring-code-of-conduct@pivotal.io.
 
-## Access to Binaries
+##Access to Binaries
 
 For access to artifacts or a distribution zip, see the [Spring Framework Artifacts](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Artifacts) wiki page.
 
@@ -36,3 +36,4 @@ Follow [@SpringCentral](https://twitter.com/springcentral), [@SpringFramework](h
 ## License
 
 The Spring Framework is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+
